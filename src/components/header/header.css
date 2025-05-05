@@ -1,0 +1,15 @@
+.bg-main{
+    background-color: #1C1E53;
+    padding: 10px 0;
+    color: #FFFFFF;
+}
+
+.in{
+    color: #FFFFFF !important;
+}
+.btn a{
+    padding: 10px 20px;
+    color:#FFFFFF !important;
+    border: 2px solid#F4F6FC33;
+    border-radius: 40px;
+}
