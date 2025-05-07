@@ -5,9 +5,14 @@
 }
 
 .in{
+    color: #BBBBCB !important;
+    font-family: "Poppins", sans-serif;
+}
+.in:hover{
     color: #FFFFFF !important;
 }
 .btn a{
+    font-family: "Poppins", sans-serif;
     padding: 10px 20px;
     color:#FFFFFF !important;
     border: 2px solid#F4F6FC33;

@@ -1,0 +1,27 @@
+#blog{
+    padding: 100px 0;
+    background-color: #FFFF;
+}
+.blog-main h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    color:#282938 ;
+}
+.blog-main1{
+    padding-top: 50px;
+}
+.blog-main2 p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#282938 ;
+}
+.blog-main2 h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color:#282938 ;
+}
+.blog-main2 h6{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#282938 ;
+}

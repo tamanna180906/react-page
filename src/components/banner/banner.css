@@ -3,15 +3,18 @@
     padding: 100px 0;
 }
 .banner-main h2{
+    font-family: "Poppins", sans-serif;
     font-size: 54px;
     color:#FFFFFF ;
 }
 .banner-main p{
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     color:#FFFFFF ;
     padding-bottom: 20px ;
 }
 .banner-a a{
+    font-family: "Poppins", sans-serif;
     padding: 10px 20px;
     border: 1px solid #FCD980;
     text-decoration: none;
