@@ -1,0 +1,78 @@
+#for{
+    padding: 100px 0;
+    background-color: #FFFF;
+}
+.for-main img{
+  width: 100%;
+}
+.for-main{
+    position: relative;
+}
+.for-main-in{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding:100px;
+    background-color: #1C1E5380;
+}
+.for-main-in h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 46px;
+    color:#FFFFFF;
+}
+.for-main-in p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color:#FFFFFF;
+}
+.for-main2{
+    background-color:#1C1E53;
+    margin-left: -12px;
+}
+.for-main2-in{
+    padding: 100px 100px 0 100px;
+}
+.for-main2-in h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    color:#FFFFFF;
+}
+.for-main2-in p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#FFFFFF;
+}
+.for-main2-input{
+    padding-top: 20px;
+}
+.for-main2-input input{
+    font-family: "Poppins", sans-serif;
+    margin-top: 10px;
+    padding:10px 20px;
+    width: 350px;
+    border-radius: 10px;
+    color:#F4F6FC ;
+    border: 2px solid #FFFFFF0D ;
+    background-color: #1C1E53;
+}
+.for-main2-btn{
+    margin-top: 30px;
+    text-align: center;
+}
+.for-main2-btn button{
+    font-family: "Poppins", sans-serif;
+    width: 320px;
+    margin-top: 10px;
+    padding:10px 20px;
+    border-radius: 40px;
+    color:#FFFFFF ;
+    border: none;
+    background-color:#1C1E53 ;
+    border: 1px solid #FCD980;
+}
+.for-main2-btn button:hover{
+    color:#1B1C2B ;
+    background-color:#FCD980 ;
+}

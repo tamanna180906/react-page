@@ -1,0 +1,28 @@
+#features{
+    padding: 100px 0;
+    background-color: #F4F6FC;
+}
+.features-main p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color:#282938 ;
+}
+.features-main h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 44px;
+    color:#282938 ;
+}
+.features-main1{
+    padding-top: 50px;
+}
+.features-main1-in{
+    margin-top: 10px;
+    padding: 40px;
+    background-color:#FFFFFF ;
+}
+.features-main1-in h2{
+    font-family: "Poppins", sans-serif;
+    padding-top: 10px;
+    font-size: 20px;
+    color:#282938 ;
+}

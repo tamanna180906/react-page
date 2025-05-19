@@ -1,21 +1,22 @@
-import Header from "./components/header/Header"
-import Banner from "./components/banner/Banner"
-import Work from "./components/work/Work"
-import List from "./components/list/List"
-import Blog from "./components/blog/Blog"
-import Footer from "./components/footer/Footer"
+
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from "react-router-dom"
+import Home from "./pages/Home"
+import About from "./pages/About"
+import Layout from "./components/root/Layout"
+
+const router = createBrowserRouter(createRoutesFromElements(
+  <Route element={<Layout/>}>
+    <Route path="/" element={<Home/>}></Route>
+    <Route path="/about" element={<About/>}></Route>
+  </Route>
+))
 
 
 function App() {
 
   return (
     <>
-    <Header/>
-    <Banner/>
-    <Work/>
-    <List/>
-    <Blog/>
-    <Footer/>
+    <RouterProvider router={router}/>
     </>
   )
 }
